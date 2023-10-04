@@ -26,7 +26,10 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Buscador de CEP</h1>
+      <h1 className="title">
+        Buscador de CEP
+        <img src="/public/logo512.png" alt="" />
+      </h1>
 
       <div className="containerInput">
         <input
